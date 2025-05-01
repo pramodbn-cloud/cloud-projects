@@ -72,3 +72,4 @@ Before starting the steps:
 - use branches intentionally, not casually
 - aim for readable history and clean workflow
 - understand that pull requests protect quality and collaboration, not just permissions
+
