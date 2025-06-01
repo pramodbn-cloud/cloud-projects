@@ -69,3 +69,4 @@ Before starting the steps:
 - approvals should be seen as confidence controls, not obstacles
 - rollback should be planned before failure happens
 - aim to understand release behavior, not only configure steps
+
