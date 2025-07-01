@@ -68,3 +68,4 @@ Before starting the steps:
 - aim to understand why a control exists, not only how to click it
 
 
+
