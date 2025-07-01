@@ -66,3 +66,4 @@ Before starting the steps:
 - keep the lab practical and understandable
 - prefer safer built-in patterns over hardcoded shortcuts
 - aim to understand why a control exists, not only how to click it
+
