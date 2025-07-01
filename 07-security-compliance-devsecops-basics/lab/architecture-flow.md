@@ -67,3 +67,4 @@ Before starting the steps:
 - prefer safer built-in patterns over hardcoded shortcuts
 - aim to understand why a control exists, not only how to click it
 
+
