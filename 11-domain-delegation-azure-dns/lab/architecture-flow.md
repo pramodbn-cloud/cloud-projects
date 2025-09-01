@@ -67,3 +67,4 @@ Before starting the steps:
 - subdomain delegation can be a cleaner learning or team boundary than moving a full root domain
 - the goal is to establish authoritative naming control before automation
 - think in terms of platform ownership, not just record entry
+
