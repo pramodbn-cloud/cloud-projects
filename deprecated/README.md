@@ -1,3 +1,0 @@
-# aws-project2
-
-
